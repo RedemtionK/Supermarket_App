@@ -1,3 +1,3 @@
 # Supermarket_App
 
-Users for inital access can be found in users.txt
+This is a fully working  application that can help manage a supermarket.
