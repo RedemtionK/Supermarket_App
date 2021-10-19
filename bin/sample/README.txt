@@ -1,4 +1,4 @@
-ACCOUNTET E VENDOSURA JANE :
+Initial Accounts:
 
 NAME: Cashier || PASSWORD: 1  || (Cashier)
 
