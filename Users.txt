@@ -1,0 +1,4 @@
+Name Password AccessLevel Salary Birthday E-Mail
+Admin 1 Admin 100000 1/2/3 dsd@dsasa
+Cashier 1 Cashier 20000 12/01/1993 cashier@email.com 
+Economist 1 Economist 50000 12/07/1991 economist@email.com

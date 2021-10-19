@@ -1,0 +1,16 @@
+ProductName P/U QNT TP  Date
+Cashier BillNO:1  Total: 600 Date: 2018/01/30 19:13:34
+Product1 50 6 300 2018/01/30 19:13:34
+Product2 20 15 300 2018/01/30 19:13:34
+Cashier BillNO:2  Total: 40 Date: 2018/01/30 22:23:10
+Product2 20 2 40 2018/01/30 22:23:10
+Admin BillNO:3  Total: 490 Date: 2018/01/31 00:12:36
+Product1 50 9 450 2018/01/31 00:12:36
+Product2 20 2 40 2018/01/31 00:12:36
+Admin BillNO:4  Total: 750 Date: 2018/01/31 00:15:32
+Product1 50 3 150 2018/01/31 00:15:32
+Product1 50 3 150 2018/01/31 00:15:32
+Product1 50 3 150 2018/01/31 00:15:32
+Product1 50 3 150 2018/01/31 00:15:32
+Product1 50 3 150 2018/01/31 00:15:32
+Cashier BillNO:5  Total: 0 Date: 2021/10/19 08:59:53
